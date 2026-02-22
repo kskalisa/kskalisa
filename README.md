@@ -1,146 +1,156 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Kalisa;Full-Stack+Engineer+%E2%9C%A8;UI%2FUX+Designer+%26+Flutter+Developer;DevOps+Enthusiast+%F0%9F%9A%80">
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Web & Mobile Developer | UI/UX Designer | DevOps Practitioner</strong>
-</p>
+```
+██╗  ██╗ █████╗ ██╗     ██╗███████╗ █████╗
+██║ ██╔╝██╔══██╗██║     ██║██╔════╝██╔══██╗
+█████╔╝ ███████║██║     ██║███████╗███████║
+██╔═██╗ ██╔══██║██║     ██║╚════██║██╔══██║
+██║  ██╗██║  ██║███████╗██║███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+UI%2FUX+Designer;Building+scalable+products+that+matter+%F0%9F%9A%80;Flutter+%2B+React+%2B+Spring+Boot+%2B+DevOps;Clean+code.+Pixel-perfect+UI.+Real+impact.)](https://git.io/typing-svg)
 
-## 🧠 Professional Summary
+<br/>
 
-I build **scalable, production-ready full-stack applications** with clean architecture, seamless user experiences, and DevOps integration.  
-I focus on **impactful solutions** that are maintainable, secure, and user-centered.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kskalisa)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kskalisa)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-**Key Strengths:**
-- System design & backend architecture  
-- API development & integration  
-- Responsive frontend & UI/UX design  
-- Mobile apps using Flutter  
-- DevOps workflows & CI/CD automation  
+</div>
 
 ---
 
-## 💼 Experience
+## `> whoami`
 
-### Frontend Developer & UI/UX Designer — CodeCircle (Tech Club Collaboration)
-**Responsibilities & Impact:**
-- Designed user-centered interfaces using Figma  
-- Built responsive frontend components with React  
-- Improved usability and navigation flow  
-- Integrated frontend with backend APIs  
-- Collaborated in Agile development environment  
-
----
-
-## 📌 Selected Projects
-
-### 🌾 AgriConnect – Full-Stack Agricultural Platform
-Empowering farmers with digital advisory services and market access through a robust full-stack web application.
-
-**Impact:**
-- Role-based access & secure authentication  
-- RESTful APIs & database integration  
-- Scalable system architecture  
-
-**Tech Stack:** React, Node.js / Spring Boot, SQL Database  
+```yaml
+name        : Kalisa
+role        : Full-Stack Engineer · UI/UX Designer · Flutter Developer
+focus       : Scalable systems · Clean architecture · User-centered design
+currently   : Building production-ready web & mobile applications
+philosophy  : "Ship fast. Design well. Iterate always."
+```
 
 ---
 
-### 🐾 VetLink – Veterinary Service Management System
-Connecting livestock farmers with veterinary services for better animal health management.
+## `> tech_stack --list`
 
-**Impact:**
-- Appointment scheduling & service tracking  
-- Secure data handling & backend logic  
-- Designed scalable architecture  
+<div align="center">
 
-**Tech Stack:** Java, Web Technologies, Database Systems  
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
----
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-### 🚌 Herebus – Smart Transportation Management Application
-Improves bus route management and passenger experience via a modern transport platform.
+### ⚙️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
 
-**Impact:**
-- Integrated frontend & backend services  
-- User-friendly interface design  
-- Scalable system design  
-
-**Tech Stack:** React, Backend API, Database System  
-
----
-
-### 💻 CodeCircle – Club Collaboration Platform (Frontend & UI/UX)
-Platform for tech club collaboration, enhancing communication and project coordination.
-
-**Impact:**
-- Designed intuitive UI/UX prototypes in Figma  
-- Built responsive frontend with React  
-- Integrated with backend APIs  
-- Contributed to team-based agile development  
-
-**Tech Stack:** React, Figma, REST API Integration  
+</div>
 
 ---
 
-## 🛠 Technical Expertise
+## `> ls projects/`
 
-### Languages
-Java • JavaScript • Python • PHP • C#
+<table>
+<tr>
+<td width="50%">
 
-### Frontend
-React • HTML5 • CSS3 • Responsive Design • UI Architecture
+### 🌾 AgriConnect
+> Full-stack agricultural platform empowering farmers with digital advisory & market access
 
-### Backend
-Node.js • Spring Boot • REST API Design • Authentication Systems
+**Stack:** `React` `Node.js / Spring Boot` `SQL`
 
-### Mobile
-Flutter (Cross-Platform)
+✅ Role-based auth & secure API  
+✅ RESTful backend architecture  
+✅ Scalable production design  
 
-### UI/UX
-Figma • Wireframing • Prototyping • User Flow Design
+</td>
+<td width="50%">
 
-### DevOps & Tools
-Git • GitHub • Docker • CI/CD Pipelines • Deployment Automation
+### 🐾 VetLink
+> Veterinary service management connecting livestock farmers with vets
+
+**Stack:** `Java` `Web Technologies` `Database`
+
+✅ Appointment scheduling system  
+✅ Secure data handling  
+✅ Scalable service architecture  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚌 Herebus
+> Smart transport management improving bus routes & passenger experience
+
+**Stack:** `React` `Backend API` `Database`
+
+✅ Integrated frontend + backend  
+✅ User-friendly UI design  
+✅ Real-time route management  
+
+</td>
+<td width="50%">
+
+### 💻 CodeCircle
+> Tech club collaboration platform for communication & project coordination
+
+**Stack:** `React` `Figma` `REST API`
+
+✅ Intuitive UI/UX prototypes  
+✅ Responsive React frontend  
+✅ Agile team collaboration  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗 Architecture & Deployment
+## `> git log --stats`
 
-![Architecture Diagram](https://via.placeholder.com/800x300?text=System+Architecture+Diagram)
+<div align="center">
 
-**CI/CD & DevOps Practices Implemented:**
-- Automated builds and deployments using CI/CD pipelines  
-- Dockerized applications for consistent environments  
-- Version control with Git & GitHub  
-- Continuous integration testing & delivery  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kskalisa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kskalisa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
----
+<br/>
 
-## 📊 GitHub Analytics & Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=kskalisa&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
-![Kalisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kskalisa&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kskalisa&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kskalisa&theme=dark)  
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## `> cat vision.txt`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kskalisa)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kskalisa)
+```
+I architect scalable, production-ready systems where clean code meets
+intuitive design — bridging the gap between engineering and experience.
 
----
-
-## 🎯 Career Vision
-
-To architect **scalable, production-ready systems** combining clean code, intuitive interfaces, and automated DevOps workflows, delivering real-world impact across web and mobile platforms.
+Goal: Build solutions that are fast, beautiful, and built to last.
+```
 
 ---
 
-<!-- Visitor Counter -->
-![Visitor Counter](https://profile-counter.glitch.me/kskalisa/count.svg)
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kskalisa&color=00d9ff&style=flat-square&label=Profile+Views)
+
+*"Great software is built at the intersection of logic and empathy."*
+
+</div>
